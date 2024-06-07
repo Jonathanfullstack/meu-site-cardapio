@@ -1,8 +1,8 @@
 <h1 align="center"> Cardapio Digital</h1>
 
 
-
-![Uploading Captura de tela 2024-03-04 142530.png…]()
+![Captura de tela 2024-03-04 142530](https://github.com/Jonathanfullstack/meu-site-cardapio2/assets/141459667/96edaa5d-9b16-4fcc-9e1a-3122db32c301)
+ng…]()
 
 
 Check out the app: https://www.linkedin.com/in/Jonathanfullstack/ <br>
