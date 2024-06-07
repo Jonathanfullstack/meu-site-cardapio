@@ -1,10 +1,10 @@
-<h1 align="center">🌤 Wheater App</h1>
+<h1 align="center"> Cardapio Digital</h1>
 
-<img src="./public/img.jpeg" alt="Image description">
 
-> 🔎 A website that consumes a weather weather api.
 
-Check out the app: https://www.linkedin.com/in/kayke-fujinaka/ <br>
+
+
+Check out the app: https://www.linkedin.com/in/Jonathanfullstack/ <br>
 
 ## :page_facing_up: Explanation
 
@@ -51,23 +51,10 @@ In this challenge, you have to build a website that will show the weather in pla
 :heavy_check_mark: Storybook\
 :heavy_check_mark: Done\
 
-## 🚀 Technologies
-
-- [TypeScript](https://www.typescriptlang.org/docs/)
-- [NextJs](https://nextjs.org/docs)
-- [Eslint](https://eslint.org/docs/latest/user-guide/getting-started)
-- [Prettier](https://prettier.io/docs/en/)
-- [Styled Components](https://styled-components.com/docs)
-- [Storybook](https://storybook.js.org/docs/ember/get-started/introduction)
-- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
-- [Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
-- [Axios](https://axios-http.com/docs/intro)
-- [Chartjs](https://www.chartjs.org/)
-- [BabelJs](https://babeljs.io/)
 
 ## 📡 API'𝘀 used in the application
 
--  [Cep]
+-  Cep
 
 ## :closed_book: How to use it?
 
@@ -75,7 +62,6 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Kayke-Fujinaka/Wheather-App
 # access
 $ cd wheater-app
 # install dependencies
@@ -89,21 +75,8 @@ $ yarn start or npm start
 
 Thanks to the following people who contributed to this project:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
-        <sub>
-          <b>Jonathan Vinicus </b>
-        </sub>
-      </a>
-    </all>
-    <td align="center">
-      
-    
-  </tr>
-</table>
+
+    Jonathan Vinicius Balieiro 
 
 ## 📝 License
 
