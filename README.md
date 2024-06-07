@@ -2,6 +2,7 @@
 
 
 
+![Uploading Captura de tela 2024-03-04 142530.png…]()
 
 
 Check out the app: https://www.linkedin.com/in/Jonathanfullstack/ <br>
@@ -63,7 +64,6 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 ```bash
 # Clone this project
 # access
-$ cd wheater-app
 # install dependencies
 $ yarn or npm
 # Run the project
