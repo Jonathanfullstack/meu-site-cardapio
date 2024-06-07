@@ -31,9 +31,6 @@ On the next page, customers enter their delivery information or pickup location.
 4. Final Purchase Summary:
 Finally, the last page is the final purchase summary. Here, customers can review all order details one last time, including the selected dishes, delivery address or pickup location, and the total amount to pay. They have the opportunity to confirm the order before finalizing it, ensuring that all information is correct. 
 
-## ⚔️ Challenge
-
-In this challenge, you have to build a website that will show the weather in places around the world! The application must be built using the consumption of an API that will provide the necessary data to display on your website. A very good challenge to learn the whole context of front-end applications using React.
 
 ## 🎯 Steps
 
